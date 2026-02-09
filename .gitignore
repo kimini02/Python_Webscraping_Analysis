@@ -4,4 +4,8 @@ data/.ipynb_checkpoints/
 img/
 img.html
 *.jpg
+# API Keys & Secrets
 .env
+.env.local
+.env.dev
+.env.test
